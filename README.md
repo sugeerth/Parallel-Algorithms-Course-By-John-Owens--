@@ -1,5 +1,7 @@
 # Work on understanding the GPU #
 
+[![Screenshot 2017-06-04 18.08.33.jpg](https://s15.postimg.org/g6kbghyff/Screenshot_2017-06-04_18.08.33.jpg)](https://postimg.org/image/gjbpmogp3/)
+
 ### What is this repository for? ###
 
 I am attaching three very essential projects that I worked on this course that I enjoyed learning.
